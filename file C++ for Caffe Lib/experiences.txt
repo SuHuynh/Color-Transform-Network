@@ -1,0 +1,4 @@
+first: check file caffe.proto (if have fault, we can built the caffe.proto.h)
+
+second : fatal error LNK1181: cannot open input file 'libcaffe.lib' : this fault caused by syntax fault in .cpp file
+ 
