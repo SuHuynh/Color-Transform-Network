@@ -7,7 +7,7 @@ Adopted by Spatial Transformer Network that transform images via spatial domain,
 
 ## Results
 
-![](https://github.com/SuHuynh/Color-Transform-Network/blob/master/imgs/image_result.PNG)
+![](https://github.com/SuHuynh/Color-Transform-Network/blob/master/imgs/image_results.PNG)
 
 ## Visualization
 
